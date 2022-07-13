@@ -16,7 +16,7 @@
 
 <body>
     <div class="container">
-        <form action="#" method="post">
+        <form action="login-session.php" method="post">
             <div class="title">Login</div>
             <div class="input-box underline">
                 <input type="email" name="email" placeholder="Enter Your Email" required>
